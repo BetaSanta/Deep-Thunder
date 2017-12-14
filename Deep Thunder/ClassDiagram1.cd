@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Deep_Thunder.Program">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deep_Thunder.AccountSettingsForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ARBAQgiAACAEEBQAYBGqCNACgIA8AMAIBHAAQQBkBAM=</HashCode>
+      <FileName>AccountSettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deep_Thunder.AuthorizationForm">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gBCBkAAAICAAABAAAACgAJACAAAQAwBAAFAAAQDAAEA=</HashCode>
+      <FileName>AuthorizationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deep_Thunder.CreateAccountForm">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQBBIhiAACAEEBQAIBWqQgICAAAsAAAUBFAAAABgFBI=</HashCode>
+      <FileName>CreateAccountForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deep_Thunder.dataBase">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQAACAAACBAAAAABACAAAAEAABCAAAIAAAAAACBAA=</HashCode>
+      <FileName>dataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deep_Thunder.MainForm">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/zB0PDD/qiAiJDEE7d2+W9oSAKM+34WxiH0PCSLbVwI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
